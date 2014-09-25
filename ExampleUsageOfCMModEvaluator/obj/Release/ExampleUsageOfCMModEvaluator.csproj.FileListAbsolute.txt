@@ -1,1 +1,8 @@
 C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Release\ExampleUsageOfCMModEvaluator.exe.config
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Release\ExampleUsageOfCMModEvaluator.exe
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Release\ExampleUsageOfCMModEvaluator.pdb
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Release\CMModEvaluator.dll
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Release\CMModEvaluator.pdb
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Release\ExampleUsageOfCMModEvaluator.csprojResolveAssemblyReference.cache
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Release\ExampleUsageOfCMModEvaluator.exe
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Release\ExampleUsageOfCMModEvaluator.pdb
