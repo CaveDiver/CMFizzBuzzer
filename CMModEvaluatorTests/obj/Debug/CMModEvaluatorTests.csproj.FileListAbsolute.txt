@@ -1,0 +1,7 @@
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\bin\Debug\CMModEvaluatorTests.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\bin\Debug\CMModEvaluatorTests.pdb
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\bin\Debug\CMModEvaluator.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\bin\Debug\Should.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\bin\Debug\CMModEvaluator.pdb
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\obj\Debug\CMModEvaluatorTests.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluatorTests\obj\Debug\CMModEvaluatorTests.pdb

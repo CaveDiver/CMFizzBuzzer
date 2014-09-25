@@ -1,0 +1,8 @@
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Debug\ExampleUsageOfCMModEvaluator.exe.config
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Debug\ExampleUsageOfCMModEvaluator.exe
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Debug\ExampleUsageOfCMModEvaluator.pdb
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Debug\CMModEvaluator.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\bin\Debug\CMModEvaluator.pdb
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Debug\ExampleUsageOfCMModEvaluator.csprojResolveAssemblyReference.cache
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Debug\ExampleUsageOfCMModEvaluator.exe
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\ExampleUsageOfCMModEvaluator\obj\Debug\ExampleUsageOfCMModEvaluator.pdb

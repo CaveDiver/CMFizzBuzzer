@@ -1,0 +1,4 @@
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\bin\Debug\CMModEvaluator.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\bin\Debug\CMModEvaluator.pdb
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\obj\Debug\CMModEvaluator.dll
+c:\users\xzcnvm\documents\visual studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\obj\Debug\CMModEvaluator.pdb
