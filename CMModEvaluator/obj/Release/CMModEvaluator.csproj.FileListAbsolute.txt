@@ -1,0 +1,5 @@
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\bin\Release\CMModEvaluator.dll
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\bin\Release\CMModEvaluator.pdb
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\obj\Release\CMModEvaluator.csprojResolveAssemblyReference.cache
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\obj\Release\CMModEvaluator.dll
+C:\Users\xzcnvm\Documents\Visual Studio 2013\Projects\CMFizzBuzzer\CMModEvaluator\obj\Release\CMModEvaluator.pdb
